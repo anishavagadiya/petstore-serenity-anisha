@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.swagger.petstore.crudtest.UsersCrudTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.846 sec - in io.swagger.petstore.crudtest.UsersCrudTest
